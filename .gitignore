@@ -1,0 +1,16 @@
+target/
+frontend/node_modules/
+frontend/.npm-cache/
+frontend/dist/
+src/main/resources/static/assets/
+src/main/resources/static/index.html
+.idea/
+.vscode/
+*.iml
+*.log
+spring-boot.out.log
+spring-boot.err.log
+data/
+*.db
+*.sqlite
+*.sqlite3
